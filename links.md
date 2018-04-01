@@ -2,8 +2,33 @@
 # Personal Development
 Motivation Jim Rohn Hip Hop :https://soundcloud.com/abstractartwear
 
-# R Finance
+# Fitness
+Bodyweight Routine: https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine
 
+# Mac
+Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-file/
+
+
+# R Finance
+Crumbs backtest: https://finbloggers.wordpress.com/tag/backtesting/
+The Efficient Frontier with PortfolioAnalytics – Part II: https://finbloggers.wordpress.com/2016/04/13/the-efficient-frontier-with-portfolioanalytics-part-ii/
+Quantconnect: https://www.quantconnect.com/terminal/
+TSdbi: http://tsdbi.r-forge.r-project.org/sqlWraps.php
+statsmodels and sklearn:: http://www.michaeljgrogan.com/statsmodels-sklearn-linear-regression/
+Quantitative Trading Strategy Using Quantstrat Package in R: A Step by Step Guide: https://www.quantinsti.com/blog/quantitative-trading-strategy-using-r/
+How to Design Quant Trading Strategies Using R?: https://www.quantinsti.com/blog/how-to-design-quant-trading-strategies-using-r/
+See how {quantmod} And R Can Enrich Your Knowledge Of The Financial Markets!: http://amunategui.github.io/wallstreet/
+Trading Strategies Performance Report with R and Knitr: http://www.thertrader.com/2013/10/18/trading-strategies-performance-reporting-with-r-and-knitr/
+Automated Trading Strategies in R: http://www.rpubs.com/johnakwei/207852
+K Philosophy: http://stockmarketmindgames.blogspot.co.nz/p/k-philosophy.html
+Quantstat: http://www.r-programming.org/papers
+A Quantstrat to Build On Part 6: http://timelyportfolio.blogspot.co.nz/2011/07/quantstrat-to-build-on-part-6.html
+
+# Python Trading
+Backtesting framework: https://www.backtrader.com/index
+
+# investing
+ETF finder: http://www.etfwatch.com.au/data-analysis
 
 # Machine Learning
 ## Practice
