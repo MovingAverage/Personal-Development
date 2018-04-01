@@ -18,11 +18,16 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - Keiths Trading PLan: http://www.privatetrader.biz/trading%20plan/trading%20plan.pdf
 - My Performance Routine: http://brettsteenbarger.com/trader_performance.htm#My%20Performance%20Routine
 - Brent Steenbarger Articles: http://brettsteenbarger.com/articles.htm
+- Tortoise Capital Management: http://tortoisecapital.net/case-studies/, http://tortoisecapital.net/coaching/
+- 
 
 ## Price Action
 - https://brookstradingcourse.com/price-action/10-best-price-action-trading-patterns/
 
 ## R Finance
+- http://www.thertrader.com/2015/12/13/maintaining-a-database-of-price-files-in-r/
+- https://stackoverflow.com/questions/40876400/r-quantstrat-csv-import-for-intra-day-data
+- http://statmath.wu.ac.at/~hornik/QFS1/quantmod-vignette.pdf
 - Crumbs backtest: https://finbloggers.wordpress.com/tag/backtesting/
 - The Efficient Frontier with PortfolioAnalytics – Part II: https://finbloggers.wordpress.com/2016/04/13/the-efficient-frontier-with-portfolioanalytics-part-ii/
 - Quantconnect: https://www.quantconnect.com/terminal/
@@ -36,13 +41,26 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - K Philosophy: http://stockmarketmindgames.blogspot.co.nz/p/k-philosophy.html
 - Quantstat: http://www.r-programming.org/papers
 - A Quantstrat to Build On Part 6: http://timelyportfolio.blogspot.co.nz/2011/07/quantstrat-to-build-on-part-6.html
+- Building an Optimized Portfolio with R: http://economistatlarge.com/portfolio-theory/r-optimized-portfolio
+- https://kentoranalytics.com/blog/2017/12/2/portfolio-optimization-and-the-portfolioanalytics-package-in-r
+- https://caperuser.wordpress.com/r-resources/
 
 ## Python Trading
 Backtesting framework: https://www.backtrader.com/index
 
 ## investing
-ETF finder: http://www.etfwatch.com.au/data-analysis
-ETF Performance: https://www.morningstar.com.au/ETFs/PerformanceTable
+- ETF finder: http://www.etfwatch.com.au/data-analysis
+- ETF Performance: https://www.morningstar.com.au/ETFs/PerformanceTable
+- http://www.scottsinvestments.com/2012/02/14/testing-a-harry-browne-permanent-etf-portfolio/
+- https://www.amazon.com/Beating-Market-Months-Time-Investing-ebook/dp/B004I6DFTU/ref=la_B001ILKGMC_1_2?s=books&ie=UTF8&qid=1514152551&sr=1-2&refinements=p_82%3AB001ILKGMC%2Cp_n_feature_browse-bin%3A618073011
+- Connors RSI 2: http://systemtradersuccess.com/connors-2-period-rsi-update-2014/
+
+
+## Books
+- https://www.amazon.com/Practical-Portfolio-Performance-Measurement-Attribution/dp/0470059281
+
+## Bitcoin
+- https://www.bitcoinvest.de/faq/
 
 # Property
 - http://propertywomen.com.au/springboard/
@@ -59,6 +77,15 @@ ETF Performance: https://www.morningstar.com.au/ETFs/PerformanceTable
 
 ## Books
 - https://www.dropbox.com/s/q5ah7howqh0wgpa/FundationsDataScience.pdf?dl=0
+
+## Hardware
+- http://www.hardkernel.com/main/products/prdt_info.php?g_code=G150152508314
+- https://magazine.odroid.com/article/odroid-mc1-docker-swarmgetting-started-guide/
+
+## Resources
+- https://github.com/rohanchikorde/Data-Science-books/
+- https://medium.freecodecamp.org/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
+- https://www.kaggle.com/hiteshp/head-start-for-data-scientist
 
 # Programming
 - How to Design Programs, Second Edition: http://www.htdp.org/2018-01-06/Book/
