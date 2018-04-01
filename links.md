@@ -8,8 +8,14 @@ Bodyweight Routine: https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommend
 # Mac
 Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-file/
 
+# Trading
 
-# R Finance
+## Planing
+- http://vantharp.com/Trading_System_Development_Articles.htm#performance
+- Keiths Trading PLan: http://www.privatetrader.biz/trading%20plan/trading%20plan.pdf
+
+
+## R Finance
 - Crumbs backtest: https://finbloggers.wordpress.com/tag/backtesting/
 - The Efficient Frontier with PortfolioAnalytics – Part II: https://finbloggers.wordpress.com/2016/04/13/the-efficient-frontier-with-portfolioanalytics-part-ii/
 - Quantconnect: https://www.quantconnect.com/terminal/
@@ -24,11 +30,12 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - Quantstat: http://www.r-programming.org/papers
 - A Quantstrat to Build On Part 6: http://timelyportfolio.blogspot.co.nz/2011/07/quantstrat-to-build-on-part-6.html
 
-# Python Trading
+## Python Trading
 Backtesting framework: https://www.backtrader.com/index
 
-# investing
+## investing
 ETF finder: http://www.etfwatch.com.au/data-analysis
+ETF Performance: https://www.morningstar.com.au/ETFs/PerformanceTable
 
 # Machine Learning
 ## Practice
@@ -36,8 +43,12 @@ ETF finder: http://www.etfwatch.com.au/data-analysis
 - https://www.quantiacs.com
 - http://quantiacs-python-toolbox-documentation.readthedocs.io/en/latest/
 
+## Learning
+- https://machinelearningmastery.com/start-here/
+- https://www.kdnuggets.com
 
 # Programming
+- How to Design Programs, Second Edition: http://www.htdp.org/2018-01-06/Book/
 
-How to Design Programs, Second Edition: http://www.htdp.org/2018-01-06/Book/
-
+# Future Tech
+- Canterbury Tech Summit 2017: https://www.youtube.com/watch?v=XhI-6yMIsF0
