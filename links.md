@@ -26,6 +26,8 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - Brent Steenbarger Articles: http://brettsteenbarger.com/articles.htm
 - Tortoise Capital Management: http://tortoisecapital.net/case-studies/, http://tortoisecapital.net/coaching/
 
+## Mind
+- David Hawkins: https://veritaspub.com
 
 ## Long term
 - http://jlcollinsnh.com/manifesto/
@@ -86,13 +88,17 @@ Backtesting framework: https://www.backtrader.com/index
 
 ## Crypto Currency
 - https://www.bitcoinvest.de/faq/
-- https://www.stuff.co.nz/business/money/92329364/palmerston-north-retiree-makes-a-mint-ditching-gold-for-cryptocurrency
+- https://coinmarketcap.com
 
 ## Property
 - http://propertywomen.com.au/springboard/
 
 ### Design
 - https://makefurniture.co.nz
+
+## NEWS
+- https://www.stuff.co.nz/business/99155181/feilding-coder-takes-out-manawats-innovate-2017-with-stockroom-software
+- https://www.stuff.co.nz/business/money/92329364/palmerston-north-retiree-makes-a-mint-ditching-gold-for-cryptocurrency
 
 # Data Science
 ## Practice
@@ -123,4 +129,14 @@ Backtesting framework: https://www.backtrader.com/index
 - Canterbury Tech Summit 2017: https://www.youtube.com/watch?v=XhI-6yMIsF0
 - Fusion energy : https://www.iter.org/sci/Goals
 - http://www.b-t.energy
+
+# Home
+- http://www.koanga.org.nz/urban-garden/
+- https://www.amazon.com/Japanese-Touch-Your-Home/dp/477001662X/ref=sr_1_1
+- https://www.amazon.com/Japanese-Homes-Lifestyles-Illustrated-Journey/dp/477002391X/ref=sr_1_1
+
+- Golf balls: https://www.rockbottomgolf.com
+
+
+
 
