@@ -1,10 +1,16 @@
 
 # Personal Development
-Motivation Jim Rohn Hip Hop :https://soundcloud.com/abstractartwear
+- Motivation Jim Rohn Hip Hop :https://soundcloud.com/abstractartwear
+- https://www.dalecarnegie.com/en
+- https://medium.com/the-mission/the-ooda-loop-how-to-turn-uncertainty-into-opportunity-6b07dc8a40fd
 
 # Fitness
 - Bodyweight Routine: https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine
 - Handstand: https://gmb.io/handstand/
+- https://www.amazon.com/Vita-Vibe-MP12-Mini-Parallettes/dp/B0048U6ZSE
+
+# Books
+- http://buffettsbooks.com/books-by-warren-buffett.html#sthash.nXjCJKeG.fqg30x5R.dpbs
 
 # Mac
 Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-file/
@@ -19,7 +25,10 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - My Performance Routine: http://brettsteenbarger.com/trader_performance.htm#My%20Performance%20Routine
 - Brent Steenbarger Articles: http://brettsteenbarger.com/articles.htm
 - Tortoise Capital Management: http://tortoisecapital.net/case-studies/, http://tortoisecapital.net/coaching/
-- 
+
+
+## Long term
+- http://jlcollinsnh.com/manifesto/
 
 ## Price Action
 - https://brookstradingcourse.com/price-action/10-best-price-action-trading-patterns/
@@ -54,16 +63,36 @@ Backtesting framework: https://www.backtrader.com/index
 - http://www.scottsinvestments.com/2012/02/14/testing-a-harry-browne-permanent-etf-portfolio/
 - https://www.amazon.com/Beating-Market-Months-Time-Investing-ebook/dp/B004I6DFTU/ref=la_B001ILKGMC_1_2?s=books&ie=UTF8&qid=1514152551&sr=1-2&refinements=p_82%3AB001ILKGMC%2Cp_n_feature_browse-bin%3A618073011
 - Connors RSI 2: http://systemtradersuccess.com/connors-2-period-rsi-update-2014/
+- CFD Trading
 
+## MT4
+- http://www.easyexpertforex.com/backtesting-optimization.html
+- Exper advisors in non standard timeframes: https://www.mql5.com/en/articles/1368
+
+## Companies
+- http://www.broadswordcapital.com
+- http://www.hullinvest.com/HI/our-approach/
+- https://quantlab.co.za/ourPhilosophy.php
+- https://www.buildalpha.com/features/
+
+## Advice
+- http://www.vantharp.com/van-tharps-favorite-books.htm
+
+## Market Wizards
+- Bruce Kovner: http://www.newtraderu.com/2016/09/15/lessons-market-wizard-bruce-kovner/
 
 ## Books
 - https://www.amazon.com/Practical-Portfolio-Performance-Measurement-Attribution/dp/0470059281
 
-## Bitcoin
+## Crypto Currency
 - https://www.bitcoinvest.de/faq/
+- https://www.stuff.co.nz/business/money/92329364/palmerston-north-retiree-makes-a-mint-ditching-gold-for-cryptocurrency
 
-# Property
+## Property
 - http://propertywomen.com.au/springboard/
+
+### Design
+- https://makefurniture.co.nz
 
 # Data Science
 ## Practice
