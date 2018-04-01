@@ -3,6 +3,7 @@
 - Motivation Jim Rohn Hip Hop :https://soundcloud.com/abstractartwear
 - https://www.dalecarnegie.com/en
 - https://medium.com/the-mission/the-ooda-loop-how-to-turn-uncertainty-into-opportunity-6b07dc8a40fd
+- Leadership: https://stuartlancaster.com/the-leadership-club/
 
 # Fitness
 - Bodyweight Routine: https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine
@@ -89,6 +90,10 @@ Backtesting framework: https://www.backtrader.com/index
 ## Crypto Currency
 - https://www.bitcoinvest.de/faq/
 - https://coinmarketcap.com
+- https://www.reddit.com/r/NZBitcoin/
+- https://kiwi-coin.com/help.html#!/faq/
+- https://www.bitprime.co.nz/
+- https://www.cryptopia.co.nz/Home
 
 ## Property
 - http://propertywomen.com.au/springboard/
@@ -129,14 +134,16 @@ Backtesting framework: https://www.backtrader.com/index
 - Canterbury Tech Summit 2017: https://www.youtube.com/watch?v=XhI-6yMIsF0
 - Fusion energy : https://www.iter.org/sci/Goals
 - http://www.b-t.energy
+- https://www.amazon.com/Abundance-Future-Better-Than-Think/dp/1451614217
 
 # Home
 - http://www.koanga.org.nz/urban-garden/
 - https://www.amazon.com/Japanese-Touch-Your-Home/dp/477001662X/ref=sr_1_1
 - https://www.amazon.com/Japanese-Homes-Lifestyles-Illustrated-Journey/dp/477002391X/ref=sr_1_1
-
+- te wananga o aotearoa courses
 - Golf balls: https://www.rockbottomgolf.com
 
-
+# Design
+- https://www.logodesignlove.com/brand-identity-style-guides
 
 
