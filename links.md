@@ -10,6 +10,7 @@
 - Handstand: https://gmb.io/handstand/
 - https://www.amazon.com/Vita-Vibe-MP12-Mini-Parallettes/dp/B0048U6ZSE
 - fasting was one of the surest ways to physical health: https://en.m.wikipedia.org/wiki/Bernarr_Macfadden
+- https://courses.ethcs.com
 
 # Books
 - http://buffettsbooks.com/books-by-warren-buffett.html#sthash.nXjCJKeG.fqg30x5R.dpbs
