@@ -4,6 +4,7 @@
 - https://www.dalecarnegie.com/en
 - https://medium.com/the-mission/the-ooda-loop-how-to-turn-uncertainty-into-opportunity-6b07dc8a40fd
 - Leadership: https://stuartlancaster.com/the-leadership-club/
+- First Principles: https://jamesclear.com/first-principles
 
 # Fitness
 - Bodyweight Routine: https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine
@@ -11,6 +12,7 @@
 - https://www.amazon.com/Vita-Vibe-MP12-Mini-Parallettes/dp/B0048U6ZSE
 - fasting was one of the surest ways to physical health: https://en.m.wikipedia.org/wiki/Bernarr_Macfadden
 - https://courses.ethcs.com
+- Swimming: http://www.sealswcc.com/navy-swcc-combat-side-stroke-guide.html
 
 # Books
 - http://buffettsbooks.com/books-by-warren-buffett.html#sthash.nXjCJKeG.fqg30x5R.dpbs
@@ -32,8 +34,10 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 ## Mind
 - David Hawkins: https://veritaspub.com
 
-## Long term
+## Long term\Portfolios
 - http://jlcollinsnh.com/manifesto/
+- https://obliviousinvestor.com/8-sample-and-simple-portfolios/
+- http://www.trendfindertrading.com/indextraderI.html
 
 ## Price Action
 - https://brookstradingcourse.com/price-action/10-best-price-action-trading-patterns/
@@ -58,9 +62,13 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - Building an Optimized Portfolio with R: http://economistatlarge.com/portfolio-theory/r-optimized-portfolio
 - https://kentoranalytics.com/blog/2017/12/2/portfolio-optimization-and-the-portfolioanalytics-package-in-r
 - https://caperuser.wordpress.com/r-resources/
+- The Marcos Lopez de Prado Hierarchical Risk Parity Algorithm: https://quantstrattrader.wordpress.com/page/3/
+- *Empirical Finance: http://cran.wustl.edu/web/views/Finance.html*
+- Analysis of Financial Time Series: http://faculty.chicagobooth.edu/ruey.tsay/teaching/bs41202/sp2009/
 
 ## Python Trading
-Backtesting framework: https://www.backtrader.com/index
+- Backtesting framework: https://www.backtrader.com/index
+- *https://www.quantopian.com/lectures*
 
 ## investing
 - ETF finder: http://www.etfwatch.com.au/data-analysis
@@ -79,6 +87,7 @@ Backtesting framework: https://www.backtrader.com/index
 - http://www.hullinvest.com/HI/our-approach/
 - https://quantlab.co.za/ourPhilosophy.php
 - https://www.buildalpha.com/features/
+- https://www.kershnertrading.com/#/
 
 ## Advice
 - http://www.vantharp.com/van-tharps-favorite-books.htm
@@ -106,6 +115,8 @@ Backtesting framework: https://www.backtrader.com/index
 ## NEWS
 - https://www.stuff.co.nz/business/99155181/feilding-coder-takes-out-manawats-innovate-2017-with-stockroom-software
 - https://www.stuff.co.nz/business/money/92329364/palmerston-north-retiree-makes-a-mint-ditching-gold-for-cryptocurrency
+- https://52traders.com/scott-heywood/
+- http://www.tradersonline-mag.com/01_ezine/01_traders/en/2015/Affiliate/08/files/assets/common/downloads/publication.pdf
 
 # Data Science
 ## Practice
@@ -145,6 +156,7 @@ Backtesting framework: https://www.backtrader.com/index
 - te wananga o aotearoa courses
 - Golf balls: https://www.rockbottomgolf.com
 - https://getprepared.nz/personal-preparedness/store-water/
+- http://www.wahlee.co.nz/store/p118/Paper_Blinds._Sizes_as_width_x_drop..html
 
 # Design
 - https://www.logodesignlove.com/brand-identity-style-guides
