@@ -144,6 +144,7 @@ Backtesting framework: https://www.backtrader.com/index
 - https://www.amazon.com/Japanese-Homes-Lifestyles-Illustrated-Journey/dp/477002391X/ref=sr_1_1
 - te wananga o aotearoa courses
 - Golf balls: https://www.rockbottomgolf.com
+- https://getprepared.nz/personal-preparedness/store-water/
 
 # Design
 - https://www.logodesignlove.com/brand-identity-style-guides
