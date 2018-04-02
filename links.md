@@ -5,6 +5,7 @@
 - https://www.dalecarnegie.com/en
 - https://medium.com/the-mission/the-ooda-loop-how-to-turn-uncertainty-into-opportunity-6b07dc8a40fd
 - Leadership: https://stuartlancaster.com/the-leadership-club/
+- Google LEadership: https://siyli.org
 - First Principles: https://jamesclear.com/first-principles
 - https://www.gatesnotes.com/Books/A-Full-Life
 
