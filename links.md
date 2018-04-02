@@ -1,6 +1,7 @@
 
 # Personal Development
 - Motivation Jim Rohn Hip Hop :https://soundcloud.com/abstractartwear
+- Eat that frog: https://soundcloud.com/search?q=BRIAN%20TRACY
 - https://www.dalecarnegie.com/en
 - https://medium.com/the-mission/the-ooda-loop-how-to-turn-uncertainty-into-opportunity-6b07dc8a40fd
 - Leadership: https://stuartlancaster.com/the-leadership-club/
@@ -182,5 +183,7 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 # Design
 - https://www.logodesignlove.com/brand-identity-style-guides
 - https://buaiso.com/about_buaiso/
-
+- https://monocle.com/magazine/issues/102/keep-on-trucking/
+- https://monocle.com/magazine/issues/81/art-house-scene/
+- https://monocle.com/magazine/issues/90/peoples-palace-henselmann-tower/
 
