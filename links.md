@@ -5,6 +5,10 @@
 - https://medium.com/the-mission/the-ooda-loop-how-to-turn-uncertainty-into-opportunity-6b07dc8a40fd
 - Leadership: https://stuartlancaster.com/the-leadership-club/
 - First Principles: https://jamesclear.com/first-principles
+- https://www.gatesnotes.com/Books/A-Full-Life
+
+# Mental Tranining
+- https://www.amazon.com/Clearing-Path-Victory-Self-Guided-Training/dp/1883616026
 
 # Fitness
 - Bodyweight Routine: https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine
@@ -33,6 +37,8 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 
 ## Mind
 - David Hawkins: https://veritaspub.com
+- https://www.paulatwebb.com/mark-douglas.html
+- The Logic of Risk Taking: https://medium.com/incerto/the-logic-of-risk-taking-107bf41029d3
 
 ## Long term\Portfolios
 - http://jlcollinsnh.com/manifesto/
@@ -65,10 +71,13 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - The Marcos Lopez de Prado Hierarchical Risk Parity Algorithm: https://quantstrattrader.wordpress.com/page/3/
 - *Empirical Finance: http://cran.wustl.edu/web/views/Finance.html*
 - Analysis of Financial Time Series: http://faculty.chicagobooth.edu/ruey.tsay/teaching/bs41202/sp2009/
+- https://github.com/JohnYagecic/MonteCarloManningsShinyApp
 
 ## Python Trading
 - Backtesting framework: https://www.backtrader.com/index
 - *https://www.quantopian.com/lectures*
+- https://raw.githubusercontent.com/Lucas170/Chapter-17-All-Files/master/Desiree_Complete.mq4
+- http://epchan.blogspot.co.nz
 
 ## investing
 - ETF finder: http://www.etfwatch.com.au/data-analysis
@@ -77,6 +86,9 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - https://www.amazon.com/Beating-Market-Months-Time-Investing-ebook/dp/B004I6DFTU/ref=la_B001ILKGMC_1_2?s=books&ie=UTF8&qid=1514152551&sr=1-2&refinements=p_82%3AB001ILKGMC%2Cp_n_feature_browse-bin%3A618073011
 - Connors RSI 2: http://systemtradersuccess.com/connors-2-period-rsi-update-2014/
 - CFD Trading
+- GRAB a Bargain Research Project: http://mscapmgmt.com/research.php
+- https://www.cmcmarkets.com/en-au/news-and-analysis/backtesting-part
+- https://www.cmcmarkets.com/en-au/news-and-analysis/back-testing-trading-strategies-guest-post-by-dv34
 
 ## MT4
 - http://www.easyexpertforex.com/backtesting-optimization.html
@@ -91,6 +103,7 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 
 ## Advice
 - http://www.vantharp.com/van-tharps-favorite-books.htm
+- https://www.cfainstitute.org/learning/foundation/pages/index.aspx
 
 ## Market Wizards
 - Bruce Kovner: http://www.newtraderu.com/2016/09/15/lessons-market-wizard-bruce-kovner/
@@ -117,6 +130,9 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - https://www.stuff.co.nz/business/money/92329364/palmerston-north-retiree-makes-a-mint-ditching-gold-for-cryptocurrency
 - https://52traders.com/scott-heywood/
 - http://www.tradersonline-mag.com/01_ezine/01_traders/en/2015/Affiliate/08/files/assets/common/downloads/publication.pdf
+- http://3ng.io/rc/lDeT6L#http://fxjake.com/blog/2015/05/09/how-a-new-forex-trader-tripled-her-account-part-3-of-6/
+- https://thefelderreport.com/2017/06/13/podcast-bill-fleckenstein-on-central-bankers-financial-bubbles-and-white-burgundy/
+- https://hbr.org/product/long-term-capital-management-l-p-a/200007-PDF-ENG
 
 # Data Science
 ## Practice
@@ -127,6 +143,9 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 ## Learning
 - https://machinelearningmastery.com/start-here/
 - https://www.kdnuggets.com
+
+## Courses
+- https://www.edx.org/microsoft-professional-program-data-science
 
 ## Books
 - https://www.dropbox.com/s/q5ah7howqh0wgpa/FundationsDataScience.pdf?dl=0
@@ -157,8 +176,11 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - Golf balls: https://www.rockbottomgolf.com
 - https://getprepared.nz/personal-preparedness/store-water/
 - http://www.wahlee.co.nz/store/p118/Paper_Blinds._Sizes_as_width_x_drop..html
+- https://hydroblu.com/products/filters.html
+- http://soilandhealth.org/copyrighted-book/the-farming-manual-a-guide-to-farm-work/
 
 # Design
 - https://www.logodesignlove.com/brand-identity-style-guides
+- https://buaiso.com/about_buaiso/
 
 
