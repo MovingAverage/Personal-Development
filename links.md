@@ -186,4 +186,4 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 - https://monocle.com/magazine/issues/102/keep-on-trucking/
 - https://monocle.com/magazine/issues/81/art-house-scene/
 - https://monocle.com/magazine/issues/90/peoples-palace-henselmann-tower/
-
+- https://en.wikipedia.org/wiki/John_Lautner
