@@ -145,6 +145,7 @@ Safari tabs to text: http://veritrope.com/code/export-all-safari-tabs-to-a-text-
 ## Learning
 - https://machinelearningmastery.com/start-here/
 - https://www.kdnuggets.com
+- Open Data Science Masters : http://datasciencemasters.org
 
 ## Courses
 - https://www.edx.org/microsoft-professional-program-data-science
