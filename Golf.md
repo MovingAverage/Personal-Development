@@ -15,3 +15,11 @@
 - Driver. chase the ball with your hands
 - wide stance
 - shake hands with the target
+
+## Psychology
+
+"The true essence of gold is capitalizing on opportunities and minimizing mistakes"
+"Your creative mind should be your greatest weapon"
+
+"I was concentrating on what I had to do, realizing that was the only thing I could control"
+
